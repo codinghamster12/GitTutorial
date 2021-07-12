@@ -4,6 +4,7 @@ public class Main {
         int num2= 5;
         System.out.println("Number 1" + num1);
         System.out.println("Number 2" + num2);
+        System.out.println("Multiplication"+multiply(num1, num2));
 
     }
     public static int multiply(int a, int b){
@@ -19,6 +20,6 @@ public class Main {
         return 0;
     }
     public static void printHello(int name){
-        System.out.println("Hello world");
+        System.out.println("Hello world" +name);
     }
 }
