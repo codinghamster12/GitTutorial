@@ -7,18 +7,18 @@ public class Main {
 
     }
     public static int multiply(int a, int b){
-        return a*b;
+        return 0;
     }
     public static int add(int a, int b){
-        return a+b;
+        return 0;
     }
     public static int subtract(int a, int b){
-        return a-b;
+        return 0;
     }
     public static int divide(int a, int b){
-        return a/b;
+        return 0;
     }
-    public static void printHello(){
+    public static void printHello(int name){
         System.out.println("Hello world");
     }
 }
