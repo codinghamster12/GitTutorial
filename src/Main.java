@@ -19,6 +19,6 @@ public class Main {
         return 0;
     }
     public static void printHello(int name){
-        System.out.println("Hello world");
+        System.out.println("Hello world" +name);
     }
 }
