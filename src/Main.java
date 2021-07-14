@@ -6,13 +6,8 @@ public class Main {
         System.out.println("Number 1" + num1);
         System.out.println("Number 2" + num2);
         System.out.println("Multiplication"+multiply(num1, num2));
-<<<<<<< HEAD
         System.out.println("Summation"+add(num1, num3));
         System.out.println("Subtraction changed by master branch"+subtract(num1, num2));
-=======
-        System.out.println("Summation"+add(num1, num2));
-        System.out.println("Subtraction has been changed"+subtract(num1, num2));
->>>>>>> bisma-dev
 
 
     }
